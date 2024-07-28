@@ -1,0 +1,11 @@
+{
+    "full_name": "Florensia Simarmata",
+    "email": "johannesriter@gmail.com",
+    "app_title": "Hello Flo",
+    "app_class_name": "{{cookiecutter.app_title|replace(' ', '')}}App",
+    "directory_name": "{{cookiecutter.app_title|replace(' ', '')|lower}}",
+    "short_description": "A sleek slideshow app that supports swipe gestures.",
+    "version": "0.1.0",
+    "kivy_version": "1.8.0",
+    "year": "2024"
+}
